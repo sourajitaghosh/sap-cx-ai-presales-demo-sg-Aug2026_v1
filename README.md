@@ -1,5 +1,7 @@
 # SAP CX AI Presales Demo — Joule Skill
 
+Download official skills from here: https://skills.cloud.sap/skills/sourajitaghosh/sap-cx-ai-presales-demo-sg-Aug2026_v1/sap-cx-ai-presales-demo
+
 A single parameterised AI skill for SAP presales demonstrations. Simulates SAP Joule as an AI Commerce or CRM assistant across **25 industry verticals** using illustrative mock data. No live SAP system is connected.
 
 ## Install
